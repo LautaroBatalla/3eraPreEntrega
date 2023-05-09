@@ -1,0 +1,7 @@
+.maineditoriales{width:100%;
+    margin: 0 auto;
+background-color: rgba(209, 115, 0, 0.651);
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+align-items:map-get($map-get,center);}
